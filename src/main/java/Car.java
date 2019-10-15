@@ -9,7 +9,7 @@
  * @author 0774775
  */
 public class Car {
-    
+     
     private int yearModel;
     private String make;
     private int speed;
